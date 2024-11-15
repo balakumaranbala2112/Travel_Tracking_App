@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Travel App</string>
+
+    <!-- Destination 01 -->
+    <string name="place_1">Bali</string>
+    <string name="plan">7 days/2 persons</string>
+    <string name="description">Super saver pack with less than $10000</string>
+    <string name="title_activity_bali">BaliActivity</string> <!-- Add this line -->
+
+    <!-- Destination 02 -->
+    <string name="place_2">Paris</string>
+    <string name="title_activity_paris">ParisActivity</string>
+
+    <!-- Destination 03 -->
+    <string name="place_3">Singapore</string>
+    <string name="title_activity_singapore">SingaporeActivity</string>
+
+    <!-- Destination 04 -->
+    <string name="place_canada">Canada</string>
+    <string name="title_activity_canada">CanadaActivity</string>
+
+    <!-- Destination 04 -->
+    <string name="place_dubai">Dubai</string>
+    <string name="dubai_description">Explore the magnificent architecture and luxury of Dubai.</string>
+</resources>
