@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "652980543458",
+    "firebase_url": "https://traveltrackingapp2112-default-rtdb.firebaseio.com",
+    "project_id": "traveltrackingapp2112",
+    "storage_bucket": "traveltrackingapp2112.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652980543458:android:2c4b249e6506645315e3bb",
+        "android_client_info": {
+          "package_name": "com.example.travelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2hmzXMEvgbFTmSqpkhm2Sw4hfJAnmsj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
